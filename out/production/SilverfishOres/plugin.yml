@@ -1,0 +1,4 @@
+main: com.minecraftport.silverfishOres.main
+name: SilverfishOres
+version: 0.15
+description: Causes silverfish to ocassionally spawn from mined diamond and emerald ores.
